@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YANETdelosAngeles/tic-tac-toe/static/css/main.cd8d0aac.css",
+    "main.js": "/YANETdelosAngeles/tic-tac-toe/static/js/main.583b7261.js",
+    "index.html": "/YANETdelosAngeles/tic-tac-toe/index.html",
+    "main.cd8d0aac.css.map": "/YANETdelosAngeles/tic-tac-toe/static/css/main.cd8d0aac.css.map",
+    "main.583b7261.js.map": "/YANETdelosAngeles/tic-tac-toe/static/js/main.583b7261.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd8d0aac.css",
+    "static/js/main.583b7261.js"
+  ]
+}
